@@ -7,7 +7,7 @@
 <h3 align="center"> Software Developer | Big Data & Data Science | MERN Stack Developer</h3>
 
 <p align="center">
-  <a href="https://ravikantportfolio.vercel.app" target="_blank">
+  <a href="https://ravikantmahi.edgeone.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ravikantmahi011@gmail.com">
