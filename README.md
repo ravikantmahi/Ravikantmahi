@@ -53,7 +53,7 @@
 
 **Big Data & AI/ML** `Hadoop` • `Spark` • `NoSQL` • `Machine Learning` 
 
-**Design, Platforms & Tools** `Graphic Design` • `Figma` • `Canva` • `Git` • `GitHub` • `WordPress` • `Moodle/LMS` • `VS Code`
+**Design, Platforms & Tools** `Graphic Design` • `Android` • `Figma` • `Canva` • `Git` • `GitHub` • `WordPress` • `Moodle/LMS` • `VS Code`
 
 ---
 
