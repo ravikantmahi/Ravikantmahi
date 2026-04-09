@@ -95,4 +95,4 @@
 ---
 
 <p align="center"><b>⭐ Thanks for visiting! Don't forget to follow and star your favorite repos! ⭐</b></p>
-<p align="center"><b>📫 Reach out to me: <a href="mailto:ravikantmahi011@gmail.com">ravikantmahi011@gmail.com</a></b></p>
+<p align="center"><b>📫 Reach out to me 🤝</b></p>
