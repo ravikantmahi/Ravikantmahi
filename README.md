@@ -47,11 +47,11 @@
 
 **Languages & Scripting** `Python (Core)` • `JavaScript` • `SQL` • `Core Java` • `C`
 
-**Frontend Development** `React.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
+**Frontend Development** `React.js` • `Vite` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
 **Backend & Databases** `Node.js` • `Express.js` • `MongoDB` • `MySQL` • `Flask`
 
-**Big Data & AI/ML** `Hadoop` • `Spark` • `NoSQL` • `Machine Learning` • `Generative AI` 
+**Big Data & AI/ML** `Hadoop` • `Spark` • `NoSQL` • `Machine Learning` 
 
 **Design, Platforms & Tools** `Graphic Design` • `Figma` • `Canva` • `Git` • `GitHub` • `WordPress` • `Moodle/LMS` • `VS Code`
 
