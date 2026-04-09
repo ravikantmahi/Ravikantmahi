@@ -1,10 +1,9 @@
-<!-- Banner GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="18%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravi Kant</h1>
-<h3 align="center"> Software Developer | Big Data & Data Science | MERN Stack Developer</h3>
+<h3 align="center"> Software Developer | MERN Stack | Big Data & AI/ML | Graphic Designer</h3>
 
 <p align="center">
   <a href="https://ravikantmahi.edgeone.app/" target="_blank">
@@ -17,52 +16,44 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<!-- Profile Views Counter (center Aligned) -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Ravikantmahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧑‍💼 **Project Assistant @ NIELIT Chandigarh**  
-  Currently working on **Big Data, Data Science**, and **MERN Stack Web Development**
-
+- 🎓 **MCA Graduate** with a passion for building robust web applications and exploring intelligent systems.
+- 🧑‍💼 **Project Assistant @ NIELIT Chandigarh** Currently working on **Big Data, Data Science**, and **MERN Stack Web Development**.
 - 🌱 Actively learning & building in the areas of:
+  - Web Development
   - Big Data Tools & Ecosystems (Hadoop, Spark, NoSQL)
-  - MERN Stack: MongoDB, Express.js, React.js, Node.js
-
-- 💬 Ask me about **Web Development, Big Data, LMS Platforms, Front-End Technologies**
-
+  - AI & Machine Learning 
+  - Graphic Design & UI/UX
+- 💬 Ask me about **Web Development, Python, Big Data, LMS Platforms, and UI/UX Design**.
 
 ---
 
 ### ⚙️ Tech Stack at a Glance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,c,git,github,figma,bootstrap,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,nodejs,express,mongodb,mysql,python,java,c,git,github,canva,figma,bootstrap,tailwind,vscode,android,ai" />
 </p>
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-**Languages & Scripting**  
-`JavaScript` • `SQL` • `Core Java` • `Basic Python` • `C`
+**Languages & Scripting** `Python (Core)` • `JavaScript` • `SQL` • `Core Java` • `C`
 
-**Frontend Development**  
-`React.js` • `Bootstrap` • `Tailwind CSS` • `HTML5` • `CSS3`
+**Frontend Development** `React.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
-**Backend & Databases**  
-`Node.js` • `Express.js` • `MongoDB` • `MySQL`
+**Backend & Databases** `Node.js` • `Express.js` • `MongoDB` • `MySQL` • `Flask`
 
-**Big Data & Data Tools**  
-`Big Data Concepts` • `Hadoop` • `Spark` • `NoSQL`
+**Big Data & AI/ML** `Hadoop` • `Spark` • `NoSQL` • `Machine Learning` • `Generative AI` 
 
-**Platforms & Tools**  
-`Git` • `GitHub` • `Figma` • `Canva` • `WordPress` • `Moodle` • `LMS` • `VS Code`
+**Design, Platforms & Tools** `Graphic Design` • `Figma` • `Canva` • `Git` • `GitHub` • `WordPress` • `Moodle/LMS` • `VS Code`
 
 ---
 
@@ -71,6 +62,10 @@
 <p align="center">
   <a href="https://github.com/Ravikantmahi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ravikantmahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/ravikantmahi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://huggingface.co/ravikantmahi"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.reddit.com/user/ravikantmahi/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://about.me/ravikantmahi"><img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://www.instagram.com/ravikant_mahii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/ravikantmahi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/ravikantmahi/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
@@ -100,3 +95,4 @@
 ---
 
 <p align="center"><b>⭐ Thanks for visiting! Don't forget to follow and star your favorite repos! ⭐</b></p>
+<p align="center"><b>📫 Reach out to me: <a href="mailto:ravikantmahi011@gmail.com">ravikantmahi011@gmail.com</a></b></p>
