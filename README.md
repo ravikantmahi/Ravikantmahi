@@ -38,7 +38,7 @@
 ### ⚙️ Tech Stack at a Glance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,nodejs,express,mongodb,mysql,python,java,c,git,github,canva,figma,bootstrap,tailwind,vscode,android,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,nodejs,express,mongodb,mysql,python,java,c,git,github,canva,figma,bootstrap,tailwind,vscode,ai" />
 </p>
 
 ---
