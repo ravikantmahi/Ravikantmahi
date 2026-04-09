@@ -13,7 +13,7 @@
   <a href="mailto:ravikantmahi011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ravi-k-049bba285/">
+  <a href="https://www.linkedin.com/in/ravikantmahi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
