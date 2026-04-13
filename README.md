@@ -86,7 +86,7 @@
 
 ---
 
-### 💡 Developer Vibes
+###  Developer Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="15%" />
@@ -95,4 +95,4 @@
 ---
 
 <p align="center"><b>⭐ Thanks for visiting! Don't forget to follow and star your favorite repos! ⭐</b></p>
-<p align="center"><b>📫 Reach out to me 🤝</b></p>
+<p align="center"><b> Reach out to me 🤝</b></p>
