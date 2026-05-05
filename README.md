@@ -66,7 +66,7 @@
   <a href="https://huggingface.co/ravikantmahi"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://www.reddit.com/user/ravikantmahi/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://about.me/ravikantmahi"><img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ravikant_mahii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ravikant.mahii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/ravikantmahi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/ravikantmahi/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://replit.com/@Ravikantmahi"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
