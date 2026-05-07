@@ -49,9 +49,9 @@
 
 **Frontend Development** `React.js` • `Vite` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
-**Backend & Databases** `Node.js` • `Express.js` • `MongoDB` • `MySQL` • `Flask`
+**Backend & Databases** `Node.js` • `Express.js` • `NoSQL` • `MongoDB` • `MySQL` • `Flask`
 
-**Big Data & AI/ML** `Hadoop` • `Spark` • `NoSQL` • `Machine Learning` 
+**Big Data & AI/ML**  `Artificial intelligence (AI)` • `Machine Learning` • `Big Data & Data Science` • `Hadoop` • `Spark` 
 
 **Design, Platforms & Tools** `Graphic Design` • `Android` • `Figma` • `Canva` • `Git` • `GitHub` • `WordPress` • `Moodle/LMS` • `VS Code`
 
