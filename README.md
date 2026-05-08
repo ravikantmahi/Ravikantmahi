@@ -31,7 +31,7 @@
   - Big Data Tools & Ecosystems (Hadoop, Spark, NoSQL)
   - AI & Machine Learning 
   - Graphic Design & UI/UX
-- 💬 Ask me about **Web Development, Python, Big Data, LMS Platforms, and UI/UX Design**.
+- 💬 Ask me about **Web Development, LMS Platforms, and UI/UX Design**.
 
 ---
 
