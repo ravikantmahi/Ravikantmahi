@@ -187,15 +187,17 @@ const ravikant = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> -->
 
 <br/><br/>
 
 <b>⭐ Thanks for visiting! Don't forget to follow and star your favourite repos! ⭐</b><br/>
-<b>Reach out to me anytime 🤝 · ravikantmahi011@gmail.com</b>
+<b>Reach out to me anytime 🤝 · ravikantmahi</b>
 
 </div>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,80&height=90&section=footer&animation=twinkling" />
+</div>
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="18%" />
