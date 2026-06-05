@@ -191,8 +191,6 @@ const ravikant = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,80&height=100&section=footer&animation=twinkling" />
-
 <b>⭐ Thanks for visiting! Don't forget to follow and star your favourite repos! ⭐</b><br/>
 <b>Reach out to me anytime 🤝 · ravikantmahi011@gmail.com</b>
 
