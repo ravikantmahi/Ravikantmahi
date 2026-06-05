@@ -35,7 +35,7 @@
 
 ```ts
 const ravikant = {
-  name        : "Ravi Kant",
+  name        : "Ravikant Mahi",
   role        : "Software Developer & Project Assistant",
   company     : "NIELIT Chandigarh",
   education   : "MCA Graduate",
@@ -130,16 +130,6 @@ const ravikant = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ravikantmahi&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -154,12 +144,18 @@ const ravikant = {
 
 <div align="center">
 
-<a href="https://github.com/Ravikantmahi">
+<a href="https://github.com/ravikantmahi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ravikantmahi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/ravikant.mahii">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+ <a href="https://ravikantmahi.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 <a href="https://www.kaggle.com/ravikantmahi">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
@@ -169,14 +165,11 @@ const ravikant = {
 <a href="https://www.reddit.com/user/ravikantmahi/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-<a href="https://about.me/ravikantmahi">
-  <img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ravikant.mahii">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://www.facebook.com/ravikantmahi">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://about.me/ravikantmahi">
+  <img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=about.me&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/ravikantmahi/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
