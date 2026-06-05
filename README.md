@@ -76,13 +76,20 @@
 ---
 
 ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikantmahi&show_icons=true&theme=github_dark" width="48%">
+  <img src="https://streak-stats.demolab.com?user=ravikantmahi&theme=github-dark-blue" width="48%">
+</p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikantmahi&layout=compact&theme=github_dark" width="60%">
+</p>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravikantmahi&show_icons=true&theme=github_dark" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikantmahi&theme=github-dark-blue" width="48%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikantmahi&layout=compact&theme=github_dark" width="60%"/>
-</p>
+</p> -->
 
 ---
 
