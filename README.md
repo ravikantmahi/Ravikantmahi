@@ -7,7 +7,7 @@
 
 <div align="center">
 <br/>
-<a href="https://ravikantmahi.edgeone.app/" target="_blank">
+<a href="https://ravikant-mahi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D4AA?style=for-the-badge&labelColor=0a0a0f" />
 </a>
 &nbsp;
