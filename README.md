@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,80&height=130&section=header&animation=twinkling" />
-
-  <img src="https://avatars.githubusercontent.com/u/113057392?v=4" width="180" alt="Profile Picture">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,80&height=110&section=header&animation=twinkling" />
+  <img src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif" width="180" alt="Profile Picture">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="320" alt="Profile Picture">
+  <img src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif" width="180" alt="Profile Picture">
 
 </div>
 
@@ -190,6 +191,7 @@ const ravikant = {
 <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> -->
 
 <br/><br/>
+  <img src="https://media.tenor.com/5BwxmRgfAI4AAAAM/follow-me-beg.gif" width="180" alt="Profile Picture">
 
 <b>⭐ Thanks for visiting! Don't forget to follow and star your favourite repos! ⭐</b><br/>
 <b>Reach out to me anytime 🤝 · ravikantmahi</b>
