@@ -117,16 +117,18 @@ const ravikant = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ravikantmahi&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ravikantmahi&theme=github_dark&hide_border=true" height="180" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravikantmahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=818CF8&text_color=c9d1d9&ring_color=00D4AA" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikantmahi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D4AA&fire=F472B6&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=6e7681" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ravikantmahi&layout=compact&theme=github_dark&hide_border=true" height="180" />
+</p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikantmahi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="50%" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikantmahi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="50%" /> -->
 
 ---
 
