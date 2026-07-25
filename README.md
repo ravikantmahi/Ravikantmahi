@@ -43,9 +43,8 @@ const ravikant = {
   location    : "Chandigarh, India 🇮🇳",
   currentWork : ["Big Data", "Data Science", "MERN Stack Web Development"],
   learning    : ["Hadoop", "Spark", "Machine Learning", "UI/UX Design"],
-  askMeAbout  : ["Web Development", "LMS Platforms", "UI/UX Design"],
-  portfolio   : "https://ravikantmahi.edgeone.app/",
-  email       : "ravikantmahi011@gmail.com",
+  askMeAbout  : ["Web Development","Android", "LMS Platforms", "UI/UX Design"],
+  portfolio   : "https://ravikant-mahi.vercel.app/",
 };
 ```
 
