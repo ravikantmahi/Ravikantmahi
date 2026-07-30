@@ -43,7 +43,7 @@ const ravikant = {
   currentWork : ["Big Data", "Data Science", "MERN Stack Web Development"],
   learning    : ["Hadoop", "Spark", "Machine Learning", "UI/UX Design"],
   askMeAbout  : ["Web Development","Android", "LMS Platforms", "UI/UX Design"],
-  portfolio   : "https://ravikant-mahi.vercel.app/",
+  portfolio   : "https://ravikantmahi-portfolio.vercel.app/",
 };
 ```
 
