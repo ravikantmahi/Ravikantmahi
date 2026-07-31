@@ -5,7 +5,6 @@
   <img src="https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif" width="180" alt="Profile Picture">
 
 </div>
-
 <div align="center">
 <br/>
 <a href="https://ravikantmahi-portfolio.vercel.app/" target="_blank">
